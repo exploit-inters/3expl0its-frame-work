@@ -1,4 +1,4 @@
-# 3expl0its-frame-work
+# 3xpl0its-frame-work
 Exploit kit made in python
 
 Copyright 2018, 3xpl0its by The Dark Army
